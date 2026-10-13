@@ -1,0 +1,26 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "multichannel loop video",
+    "origin": "multichannel loop video",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 0,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "live.dial": -70.0,
+                "live.gain~": -9.325931800158592,
+                "live.gain~[1]": 0.0,
+                "live.text": 0.0,
+                "live.text[1]": 1.0,
+                "live.text[2]": 0.0,
+                "live.text[3]": 0.0,
+                "live.text[4]": 1.0,
+                "live.text[6]": 1.0,
+                "live.text[7]": 0.0
+            }
+        }
+    }
+}
